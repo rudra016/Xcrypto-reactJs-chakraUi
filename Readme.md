@@ -15,7 +15,7 @@ Responsive design for desktop and mobile devices
 <h1>Getting Started</h1>
 To get started with the app, follow these steps:
 <br>
-Clone the repository: git clone https://github.com/your-username/crypto-info-app.git
+Clone the repository: git clone https://github.com/rudra016/Xcrypto-reactJs-chakraUi.git
 <br>
 Install dependencies: npm install
 <br>
