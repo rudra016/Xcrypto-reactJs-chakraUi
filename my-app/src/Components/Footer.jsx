@@ -11,13 +11,7 @@ const Footer = () => {
             <Text fontSize={"sm"} letterSpacing={"widest"} textAlign={["center","left"]}>We are the best Crypto Info App in India, we provide our guidance at a very reasonable price.</Text>
 
         </VStack>
-            <VStack>
-                <Avatar boxSize={"28"} mt={["4","0"]} src={avater}/>
-                <Text>Developed by</Text>
-                <a href="https://github.com/rudra016">
-                    <Text textAlign={["center","right"]} fontWeight={"medium"} as={"u"}>RUDRA SHARMA</Text>
-                </a>
-            </VStack>
+           
         
 
      </Stack>
